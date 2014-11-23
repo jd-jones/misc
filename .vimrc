@@ -27,3 +27,12 @@ nnoremap k gk
 
 " jk is escape
 inoremap jk <esc>
+
+" Splits
+set splitbelow              " Place new splits more intuitively
+set splitright
+" Navigate using normal keys
+nnoremap <C-J> <C-W><C-J>
+nnoremap <C-K> <C-W><C-K>
+nnoremap <C-L> <C-W><C-L>
+nnoremap <C-H> <C-W><C-H>
