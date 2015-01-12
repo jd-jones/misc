@@ -2,7 +2,7 @@ execute pathogen#infect()
 
 " Colors
 syntax enable       " enable syntax processing
-set background=light
+set background=dark
 colorscheme solarized
 
 filetype plugin indent on
