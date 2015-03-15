@@ -8,6 +8,7 @@ colorscheme solarized
 filetype plugin indent on
 
 " Spaces and tabs
+set shiftwidth=4    " size of an indent
 set tabstop=4       " number of visual spaces per TAB
 set softtabstop=4   " number of spaces in tab when editing
 set expandtab       " tabs are spaces
