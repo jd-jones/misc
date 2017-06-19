@@ -7,6 +7,12 @@ colorscheme solarized
 
 filetype plugin indent on
 
+" Enable syntax folding
+set foldmethod=syntax
+
+" Show col 80 for line breaks
+set cc=80
+
 " Spaces and tabs
 set shiftwidth=4    " size of an indent
 set tabstop=4       " number of visual spaces per TAB
